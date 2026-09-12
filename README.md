@@ -1,4 +1,4 @@
-### Richard van der Oost | AI / Automation Engineer
+### Richard van der Oost | Full Stack Tech Founder
 
 I turn manual work into set-and-forget workflows. Workflows that can run unattended, at scale, without crashing on row 3,000.
 
